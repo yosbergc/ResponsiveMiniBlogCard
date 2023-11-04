@@ -1,0 +1,2 @@
+# ResponsiveMiniBlogCard
+ ResponsiveBlogCard
